@@ -1,0 +1,7 @@
+{
+  "name": "HappyHourFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
